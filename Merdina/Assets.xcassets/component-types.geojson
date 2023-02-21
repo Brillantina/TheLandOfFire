@@ -1,0 +1,21 @@
+[
+    {
+        "name": "vite",
+        "shields": 3,
+        "speed": 600,
+        "powerUpChance": 10,
+    },
+    {
+        "name": "vite",
+        "shields": 5,
+        "speed": 400,
+        "powerUpChance": 5,
+    },
+    {
+        "name": "vite",
+        "shields": 8,
+        "speed": 800,
+        "powerUpChance": 3,
+    }
+]
+
